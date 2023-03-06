@@ -15,3 +15,9 @@ doc/modop.txt
 # Session
 **/Session.vim
 **/Sessionx.vim
+
+# Fichiers
+**/*zip
+**/*gz
+**/*tar
+adresses-france.csv
